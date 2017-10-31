@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/cut_white.xml",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/cut_white.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/shreya/.android/build-cache/4c2cfb7e3f83e03f7f46ae0d6d023a5abdf3cdf0/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/water_drop_white.xml",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/water_drop_white.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/add_accent.xml",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_accent.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/calendar_bg.xml",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/calendar_bg.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/water_drop_blue.xml",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/water_drop_blue.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/shreya/.android/build-cache/4c2cfb7e3f83e03f7f46ae0d6d023a5abdf3cdf0/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/arrow_back_white.xml",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/arrow_back_white.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/add_white.xml",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-anydpi-v21/add_white.xml"
+    }
+]

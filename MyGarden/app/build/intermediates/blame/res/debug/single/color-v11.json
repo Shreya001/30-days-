@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/shreya/.android/build-cache/e9af8a3e805e2dd6873d68350a8ce37f4d466611/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/shreya/.android/build-cache/e9af8a3e805e2dd6873d68350a8ce37f4d466611/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

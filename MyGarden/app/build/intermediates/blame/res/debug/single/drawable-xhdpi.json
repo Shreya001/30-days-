@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-xhdpi/add_white.png",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-xhdpi/add_white.png"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-xhdpi/add_accent.png",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-xhdpi/add_accent.png"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-xhdpi/cut_white.png",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-xhdpi/cut_white.png"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-xhdpi/calendar_bg.png",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-xhdpi/calendar_bg.png"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_back_white.png",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-xhdpi/arrow_back_white.png"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-xhdpi/water_drop_blue.png",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-xhdpi/water_drop_blue.png"
+    },
+    {
+        "merged": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/intermediates/res/merged/debug/drawable-xhdpi/water_drop_white.png",
+        "source": "/home/shreya/Documents/30-days-/AdvancedAndroid_MyGarden/app/build/generated/res/pngs/debug/drawable-xhdpi/water_drop_white.png"
+    }
+]
